@@ -3,3 +3,4 @@
   - 📼 Media streaming (WebRTC, SFU, ...)
   - 🌾 Release engineering (buildfarm, CI/CD, ...)
 - 🔐 GPG fingerprint: `358B DF63 B4AE D76A 871A E62E 1BF1 686B 468C 35B2`
+- 🕘 TZ: JST (GMT+9)
